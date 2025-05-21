@@ -57,7 +57,7 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url> 
+    git clone https://github.com/Delaksan-Sritharan/quiz-game.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
