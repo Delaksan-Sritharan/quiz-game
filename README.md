@@ -15,6 +15,30 @@ This is a simple web-based quiz game that tests your knowledge of physics.
 
 ---
 
+## Website
+
+---
+## Start Screen
+
+<img width="1440" alt="Screenshot 2025-05-21 at 9 39 47 PM" src="https://github.com/user-attachments/assets/5f87587a-270d-41ff-83a3-f1a84d4054e1" />
+
+---
+## Correct Answer
+
+<img width="1440" alt="Screenshot 2025-05-21 at 9 44 36 PM" src="https://github.com/user-attachments/assets/94348f9a-40ba-4e6f-8875-126a3cf500f6" />
+
+---
+## Wrong Answer
+
+<img width="1440" alt="Screenshot 2025-05-21 at 9 41 24 PM" src="https://github.com/user-attachments/assets/eec8dafc-a7ac-4571-bb7d-268499de3a27" />
+
+---
+## Results Screen
+
+<img width="1440" alt="Screenshot 2025-05-21 at 9 41 43 PM" src="https://github.com/user-attachments/assets/0252cb9e-2e00-4c27-8fbc-c876993cac3a" />
+
+---
+
 ## Technologies Used
 
 * **HTML5:** For the basic structure of the web pages.
