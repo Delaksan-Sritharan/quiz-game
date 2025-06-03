@@ -88,3 +88,8 @@ To run this project locally:
     cd quiz-game
     ```
 3.  **Open `index.html`:** Simply open the `index.html` file in your web browser.
+
+## Contributing
+
+If you'd like to contribute to improving this website template, feel free to fork the repository (if applicable) and submit pull requests with your enhancements or bug fixes. Please ensure your code follows best practices and is well-documented.
+
